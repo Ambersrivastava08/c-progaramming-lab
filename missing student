@@ -15,5 +15,4 @@ int n, i, j, c, t, b;
         c = c ^ i; 
     c = c ^ b;  
     printf("Missing student is : %d \n", c);
-
 }

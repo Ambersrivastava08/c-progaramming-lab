@@ -2,6 +2,7 @@
 int binary_conversion(int);
 int main()
 {
+ 
    int num, bin;
    printf("Enter a decimal number: ");
    scanf("%d", &num);

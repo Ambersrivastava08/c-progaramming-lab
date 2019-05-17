@@ -13,4 +13,4 @@
       else
         printf("The string isn't a palindrome.\n");
       return 0;
-    }
+   }
